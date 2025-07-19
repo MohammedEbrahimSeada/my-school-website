@@ -21,7 +21,11 @@ The goal of this website is to provide a clean, modern, and informative platform
 - HTML5  
 - CSS3  
 - JavaScript  
-- [ React ]
+- React
+
+## 🌍 Live Demo
+
+[👉 Click here to visit the website]( https://my-school-website-nine.vercel.app/ )
 
 
 
